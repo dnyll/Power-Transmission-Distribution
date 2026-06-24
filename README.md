@@ -198,7 +198,7 @@ The concepts and experiments in this repository can be applied to:
 
 ## 👨‍💻 Author
 
-**DANIYAL BASHARAT** 
+**DANIYAL BASHARAT**
 **University of Engineering & Technology Peshawar - Nowshera Campus**
 **Registration Number:** 22JZELE0467  
 **Course:** Power Transmission & Distribution Lab / EE-401L  
